@@ -1,6 +1,0 @@
-Name	Age	Place
-A	1	Pune
-B	2	Pun1
-C	3	r
-D	4	r
-E	5	r

@@ -1,6 +1,0 @@
-Name	Age	Place
-A	1	Pune
-B	2	Pune1
-C	3	Pune2
-D	4	Pune3
-E	5	Pune4
